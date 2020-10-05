@@ -1,1 +1,1 @@
-# cse360assignment02
+# This is my repository for CSE 360 assignment 02.
